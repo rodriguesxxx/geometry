@@ -9,7 +9,6 @@ Java Swing is a powerful and flexible framework for building graphical user inte
 
 ## Result
 
-//IMAGE
-
+![image](https://github.com/rodriguesxxx/geometry/assets/117450018/40954bb2-782c-4f96-8976-9f81ea619f1e)
 
 Java swing is undoubtedly very powerful, although java is not so necessary for desktop systems nowadays, it is very useful to have knowledge of this technology.
